@@ -1,6 +1,6 @@
-# Exploratory Data Analysis of Titanic Passengers
+# Survival Rate Analysis of Titanic Passengers
 
-As the final project of the [Udacity's Intro to Data Analysis Course](https://classroom.udacity.com/courses/ud170), I analyzed the available passenger information and tried to find correlations between passenger data and their survival rates. This analysis uses pandas library.
+As the final project of the [Udacity's Intro to Data Analysis Course](https://classroom.udacity.com/courses/ud170), I conducted an exploratory data analysis on the available passenger information and tried to find correlations between passenger data and their survival rates. This analysis uses pandas library.
 
 ## Data source
 
